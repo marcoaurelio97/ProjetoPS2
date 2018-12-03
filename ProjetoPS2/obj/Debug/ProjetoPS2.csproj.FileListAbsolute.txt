@@ -1,0 +1,10 @@
+C:\Users\marki\source\repos\ProjetoPS2\ProjetoPS2\bin\Debug\ProjetoPS2.exe.config
+C:\Users\marki\source\repos\ProjetoPS2\ProjetoPS2\bin\Debug\ProjetoPS2.exe
+C:\Users\marki\source\repos\ProjetoPS2\ProjetoPS2\bin\Debug\ProjetoPS2.pdb
+C:\Users\marki\source\repos\ProjetoPS2\ProjetoPS2\obj\Debug\ProjetoPS2.csprojAssemblyReference.cache
+C:\Users\marki\source\repos\ProjetoPS2\ProjetoPS2\obj\Debug\ProjetoPS2.Form1.resources
+C:\Users\marki\source\repos\ProjetoPS2\ProjetoPS2\obj\Debug\ProjetoPS2.Properties.Resources.resources
+C:\Users\marki\source\repos\ProjetoPS2\ProjetoPS2\obj\Debug\ProjetoPS2.csproj.GenerateResource.cache
+C:\Users\marki\source\repos\ProjetoPS2\ProjetoPS2\obj\Debug\ProjetoPS2.csproj.CoreCompileInputs.cache
+C:\Users\marki\source\repos\ProjetoPS2\ProjetoPS2\obj\Debug\ProjetoPS2.exe
+C:\Users\marki\source\repos\ProjetoPS2\ProjetoPS2\obj\Debug\ProjetoPS2.pdb
